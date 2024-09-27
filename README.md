@@ -5,8 +5,7 @@
 <div align = "justify">
 This project performs text mining and sentiment analysis on customer reviews of 360DigitMG an IT institute, obtained from the SiteJabber website. The primary tasks include scraping the reviews, cleaning the data, performing sentiment analysis, and visualizing the results through word clouds and bigram frequency analysis.
 </div>
-
-
+-
 
 <div align = "justify">
 
